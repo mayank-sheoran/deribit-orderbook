@@ -20,7 +20,7 @@ class WebSocketClient:
         while True:
             try:
                 self.websocket = await websockets.connect(webSocketURL)
-                print("WebSocket connected")
+                print("-> WebSocket connected")
                 await self.authenticate()
                 await self.subscribeToOrderForKindAndCurrencyChannel('any', 'any')
                 break
@@ -34,19 +34,20 @@ class WebSocketClient:
         await self.websocket.send(getAuthMessage(self.requestId))
         authResponse = json.loads(await self.websocket.recv())
         if authResponse['result']['refresh_token'] != '':
-            print("WebSocket Authenticated")
+            print("-> WebSocket Authenticated")
 
     async def fetchOpenOrdersForCurrency(self, currency):
         self.requestId += 1
         await self.websocket.send(getOpenOrdersByCurrencyMessage(self.requestId, currency))
         openOrderWsResponse = json.loads(await self.websocket.recv())
+        print('-> Fetched all open orders.')
         return parseWsOpenOrderResponse(openOrderWsResponse['result'])
 
     async def fetchFilledAndPartialFilledOrderHistoryForCurrency(self, currency):
         self.requestId += 1
         await self.websocket.send(getOrderHistoryByCurrencyMessage(self.requestId, currency))
         orderHistoryWsResponse = json.loads(await self.websocket.recv())
-        print("TEST", orderHistoryWsResponse)
+        print('-> Fetched all filled and partially filled orders.')
         return parseWsOrderHistoryResponse(orderHistoryWsResponse['result'])
 
     async def subscribeToOrderForKindAndCurrencyChannel(self, kind, currency):
@@ -54,7 +55,7 @@ class WebSocketClient:
         await self.websocket.send(getOrderForKindAndCurrencyMessage(self.requestId, kind, currency))
         response = json.loads(await self.websocket.recv())
         if 'result' in response and response['result'] != []:
-            print('Subscribed to Order For Kind and Currency Channel')
+            print('-> Subscribed to Order For Kind and Currency Channel')
         else:
             print('Failed to subscribed to Order For Kind and Currency Channel')
 

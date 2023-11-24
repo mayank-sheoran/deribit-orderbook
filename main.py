@@ -21,9 +21,6 @@ async def main():
     asyncio.create_task(websocketClient.handleWebSocketMessageQueue())
     asyncio.create_task(orderService.processWebSocketMessageUpdates(websocketClient.messageQueue))
 
-    # Print view at intervals
-    asyncio.create_task(orderService.printOrderBookViewAtIntervals())
-
 
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()

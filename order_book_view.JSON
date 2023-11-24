@@ -1,7 +1,88 @@
 {
-  "open": [],
-  "filled": [
-    {
+  "open": {},
+  "filled": {
+    "18993558405": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 1181230.0,
+      "price": 36762.0,
+      "order_id": "18993558405",
+      "filled_amount": 1181230.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700798820149
+    },
+    "18979502064": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 53130.0,
+      "price": 37319.0,
+      "order_id": "18979502064",
+      "filled_amount": 53130.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700771692155
+    },
+    "18978568098": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 1864780.0,
+      "price": 37360.0,
+      "order_id": "18978568098",
+      "filled_amount": 1864780.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700770162837
+    },
+    "18978363121": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 10.0,
+      "price": 37295.5,
+      "order_id": "18978363121",
+      "filled_amount": 10.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700769747764
+    },
+    "18978294812": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 237910.0,
+      "price": 36736.5,
+      "order_id": "18978294812",
+      "filled_amount": 237910.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700769582646
+    },
+    "18978272013": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 237910.0,
+      "price": 37296.5,
+      "order_id": "18978272013",
+      "filled_amount": 237910.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700769496078
+    },
+    "18977914131": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 237910.0,
+      "price": 37837.0,
+      "order_id": "18977914131",
+      "filled_amount": 237910.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700768860506
+    },
+    "18977830477": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 237910.0,
+      "price": 37259.0,
+      "order_id": "18977830477",
+      "filled_amount": 237910.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700768712441
+    },
+    "18977554436": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 237910.0,
+      "price": 37252.0,
+      "order_id": "18977554436",
+      "filled_amount": 237910.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700768221537
+    },
+    "18975379142": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 237910.0,
       "price": 37320.0,
@@ -10,7 +91,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700763949516
     },
-    {
+    "18974047291": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 9999240.0,
       "price": 37769.0,
@@ -19,124 +100,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700761705011
     },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36618.5,
-      "order_id": "18973897223",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761329927
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36623.0,
-      "order_id": "18973896160",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761326014
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36623.0,
-      "order_id": "18973895943",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761323330
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36624.0,
-      "order_id": "18973895123",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761318972
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36623.5,
-      "order_id": "18973894924",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761317700
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36616.0,
-      "order_id": "18973893518",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761307503
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36606.5,
-      "order_id": "18973887493",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761293131
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74420.0,
-      "price": 36606.5,
-      "order_id": "18973887137",
-      "filled_amount": 74420.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761291263
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 371610.0,
-      "price": 37162.0,
-      "order_id": "18973853971",
-      "filled_amount": 371610.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761238748
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74340.0,
-      "price": 36611.5,
-      "order_id": "18973792404",
-      "filled_amount": 74340.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761133156
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74340.0,
-      "price": 36611.5,
-      "order_id": "18973786614",
-      "filled_amount": 74340.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761122116
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74340.0,
-      "price": 36612.0,
-      "order_id": "18973785572",
-      "filled_amount": 74340.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761119556
-    },
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 74340.0,
-      "price": 36613.5,
-      "order_id": "18973783752",
-      "filled_amount": 74340.0,
-      "order_state": "filled",
-      "creation_timestamp": 1700761116370
-    },
-    {
+    "18973725008": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 743540.0,
       "price": 37177.0,
@@ -145,7 +109,34 @@
       "order_state": "filled",
       "creation_timestamp": 1700761004030
     },
-    {
+    "18973897223": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36618.5,
+      "order_id": "18973897223",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761329927
+    },
+    "18973896160": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36623.0,
+      "order_id": "18973896160",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761326014
+    },
+    "18973895943": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36623.0,
+      "order_id": "18973895943",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761323330
+    },
+    "18973721146": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 743540.0,
       "price": 37177.0,
@@ -154,7 +145,61 @@
       "order_state": "filled",
       "creation_timestamp": 1700760997004
     },
-    {
+    "18973895123": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36624.0,
+      "order_id": "18973895123",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761318972
+    },
+    "18973894924": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36623.5,
+      "order_id": "18973894924",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761317700
+    },
+    "18973893518": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36616.0,
+      "order_id": "18973893518",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761307503
+    },
+    "18973887493": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36606.5,
+      "order_id": "18973887493",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761293131
+    },
+    "18973887137": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74420.0,
+      "price": 36606.5,
+      "order_id": "18973887137",
+      "filled_amount": 74420.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761291263
+    },
+    "18973853971": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 371610.0,
+      "price": 37162.0,
+      "order_id": "18973853971",
+      "filled_amount": 371610.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761238748
+    },
+    "18973718172": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 743540.0,
       "price": 37177.0,
@@ -163,7 +208,43 @@
       "order_state": "filled",
       "creation_timestamp": 1700760991184
     },
-    {
+    "18973792404": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74340.0,
+      "price": 36611.5,
+      "order_id": "18973792404",
+      "filled_amount": 74340.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761133156
+    },
+    "18973786614": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74340.0,
+      "price": 36611.5,
+      "order_id": "18973786614",
+      "filled_amount": 74340.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761122116
+    },
+    "18973785572": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74340.0,
+      "price": 36612.0,
+      "order_id": "18973785572",
+      "filled_amount": 74340.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761119556
+    },
+    "18973783752": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 74340.0,
+      "price": 36613.5,
+      "order_id": "18973783752",
+      "filled_amount": 74340.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700761116370
+    },
+    "18973712566": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 743540.0,
       "price": 37177.0,
@@ -172,7 +253,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760981099
     },
-    {
+    "18973677358": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 743670.0,
       "price": 37172.0,
@@ -181,7 +262,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760913745
     },
-    {
+    "18973672184": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 743670.0,
       "price": 37182.5,
@@ -190,7 +271,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760903174
     },
-    {
+    "18973657258": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 371940.0,
       "price": 36623.5,
@@ -199,7 +280,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760872520
     },
-    {
+    "18973641147": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 371940.0,
       "price": 36635.0,
@@ -208,7 +289,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760841966
     },
-    {
+    "18973616565": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36651.5,
@@ -217,7 +298,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760791078
     },
-    {
+    "18973615497": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36651.5,
@@ -226,7 +307,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760789394
     },
-    {
+    "18973614669": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36652.0,
@@ -235,7 +316,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760787760
     },
-    {
+    "18973613888": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36652.5,
@@ -244,7 +325,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760786475
     },
-    {
+    "18973613785": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36653.0,
@@ -253,7 +334,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760785076
     },
-    {
+    "18973612397": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36653.0,
@@ -262,7 +343,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760783444
     },
-    {
+    "18973611623": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36653.5,
@@ -271,7 +352,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760781826
     },
-    {
+    "18973609242": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36654.5,
@@ -280,7 +361,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760776743
     },
-    {
+    "18973608400": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36654.0,
@@ -289,7 +370,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760774476
     },
-    {
+    "18973603621": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36649.0,
@@ -298,7 +379,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760765627
     },
-    {
+    "18973600890": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372140.0,
       "price": 36654.5,
@@ -307,7 +388,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760760274
     },
-    {
+    "18973509610": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1116860.0,
       "price": 37219.0,
@@ -316,7 +397,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760574050
     },
-    {
+    "18973507039": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1116860.0,
       "price": 37220.0,
@@ -325,7 +406,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760568631
     },
-    {
+    "18973505981": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1116860.0,
       "price": 37221.0,
@@ -334,7 +415,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760565077
     },
-    {
+    "18973503681": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1116860.0,
       "price": 37222.0,
@@ -343,7 +424,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760561476
     },
-    {
+    "18973501474": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1116860.0,
       "price": 37224.0,
@@ -352,7 +433,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760557196
     },
-    {
+    "18973498586": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1116860.0,
       "price": 37225.0,
@@ -361,7 +442,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760550975
     },
-    {
+    "18973458671": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 186140.0,
       "price": 37225.0,
@@ -370,7 +451,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760467881
     },
-    {
+    "18973426976": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372290.0,
       "price": 36670.0,
@@ -379,7 +460,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760401466
     },
-    {
+    "18973413314": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 372330.0,
       "price": 36670.0,
@@ -388,7 +469,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700760371814
     },
-    {
+    "18973125177": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -397,7 +478,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759744309
     },
-    {
+    "18973122502": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -406,7 +487,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759737806
     },
-    {
+    "18973121112": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -415,7 +496,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759733292
     },
-    {
+    "18973119853": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -424,7 +505,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759730255
     },
-    {
+    "18973117912": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -433,7 +514,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759723387
     },
-    {
+    "18973111487": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -442,7 +523,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759705097
     },
-    {
+    "18973110483": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -451,7 +532,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759700769
     },
-    {
+    "18973108990": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1115720.0,
       "price": 37190.5,
@@ -460,7 +541,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759695865
     },
-    {
+    "18973103176": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 230270.0,
       "price": 37211.0,
@@ -469,7 +550,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700759657291
     },
-    {
+    "18970469129": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 10000.0,
       "price": 36930.0,
@@ -478,7 +559,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700754835283
     },
-    {
+    "BTC_USDT-3677714": {
       "instrument_name": "BTC_USDT",
       "amount": 0.0001,
       "price": 41018.445,
@@ -487,7 +568,7 @@
       "order_state": "filled",
       "creation_timestamp": 1700720094893
     },
-    {
+    "BTC_USDT-3673013": {
       "instrument_name": "BTC_USDT",
       "amount": 0.0001,
       "price": 34000.4945,
@@ -495,10 +576,64 @@
       "filled_amount": 0.0001,
       "order_state": "filled",
       "creation_timestamp": 1700710189273
+    },
+    "18993953392": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 10.0,
+      "price": 37890.5,
+      "order_id": "18993953392",
+      "filled_amount": 10.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700799503033
+    },
+    "18994011050": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 323720.0,
+      "price": 37331.5,
+      "order_id": "18994011050",
+      "filled_amount": 323720.0,
+      "order_state": "filled",
+      "creation_timestamp": 1700799602426
     }
-  ],
-  "partially_filled": [
-    {
+  },
+  "partially_filled": {
+    "18993207054": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 1864780.0,
+      "price": 37349.5,
+      "order_id": "18993207054",
+      "filled_amount": 1074970.0,
+      "order_state": "partially_filled",
+      "creation_timestamp": 1700798192286
+    },
+    "18979333714": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 1864780.0,
+      "price": 37344.0,
+      "order_id": "18979333714",
+      "filled_amount": 5990.0,
+      "order_state": "partially_filled",
+      "creation_timestamp": 1700771431373
+    },
+    "18978457197": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 1864780.0,
+      "price": 37335.0,
+      "order_id": "18978457197",
+      "filled_amount": 1801150.0,
+      "order_state": "partially_filled",
+      "creation_timestamp": 1700769950971
+    },
+    "18978385011": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 1864780.0,
+      "price": 37313.5,
+      "order_id": "18978385011",
+      "filled_amount": 4500.0,
+      "order_state": "partially_filled",
+      "creation_timestamp": 1700769793829
+    },
+    "18973688591": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 743670.0,
       "price": 37162.0,
@@ -507,7 +642,7 @@
       "order_state": "partially_filled",
       "creation_timestamp": 1700760933863
     },
-    {
+    "18970496954": {
       "instrument_name": "BTC-PERPETUAL",
       "amount": 1000000.0,
       "price": 36920.0,
@@ -515,26 +650,26 @@
       "filled_amount": 220270.0,
       "order_state": "partially_filled",
       "creation_timestamp": 1700754878285
-    }
-  ],
-  "cancelled": [
-    {
-      "instrument_name": "BTC-PERPETUAL",
-      "amount": 237910.0,
-      "price": 37322.0,
-      "order_id": "18976342670",
-      "filled_amount": 0.0,
-      "order_state": "cancelled",
-      "creation_timestamp": 1700765827923
     },
-    {
+    "18993973087": {
       "instrument_name": "BTC-PERPETUAL",
-      "amount": 237910.0,
-      "price": 37321.0,
-      "order_id": "18976323002",
+      "amount": 1866580.0,
+      "price": 37331.5,
+      "order_id": "18993973087",
+      "filled_amount": 361360.0,
+      "order_state": "partially_filled",
+      "creation_timestamp": 1700799537083
+    }
+  },
+  "cancelled": {
+    "18993916333": {
+      "instrument_name": "BTC-PERPETUAL",
+      "amount": 1864780.0,
+      "price": 37150.0,
+      "order_id": "18993916333",
       "filled_amount": 0.0,
       "order_state": "cancelled",
-      "creation_timestamp": 1700765743049
+      "creation_timestamp": 1700799438456
     }
-  ]
+  }
 }
